@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eugenio Doñaque
 
-**Senior Software Engineer | Python | React | DevOps**  
+**Senior Software Engineer**  
 Based in Vigo, Spain  
 [Personal Site](https://www.donaque.xyz/?utm_source=gh&utm_medium=web&utm_campaign=readme) | [LinkedIn](https://www.linkedin.com/in/eugenio-donaque/?utm_source=gh&utm_medium=web&utm_campaign=readme)
 
